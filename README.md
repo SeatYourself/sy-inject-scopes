@@ -32,4 +32,4 @@ https://groups.google.com/d/msg/guava-discuss/NazZoQs80oE/hnIqSAt3Iy8J
 
 ___________________
 
-Copyright &copy; 2012 Seat Yourself
+Copyright &copy; 2012-2013 Seat Yourself
