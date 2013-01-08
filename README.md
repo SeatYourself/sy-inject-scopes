@@ -1,5 +1,5 @@
-sy-inject
-=========
+sy-inject-scopes
+================
 
 Special singleton scopes for Guice
 
