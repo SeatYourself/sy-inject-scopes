@@ -30,6 +30,8 @@ See this posting for a link to my original blog entry about ConcurrentSingleton,
 
 https://groups.google.com/d/msg/guava-discuss/NazZoQs80oE/hnIqSAt3Iy8J
 
+Still no tests.
+
 ___________________
 
 Copyright &copy; 2012-2013 Seat Yourself
