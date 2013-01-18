@@ -1,4 +1,4 @@
-package biz.seatyourself.util.inject;
+package biz.seatyourself.inject;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Scope;

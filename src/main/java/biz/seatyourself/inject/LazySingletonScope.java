@@ -1,4 +1,4 @@
-package biz.seatyourself.util.inject;
+package biz.seatyourself.inject;
 
 import com.google.inject.Key;
 import com.google.inject.Provider;

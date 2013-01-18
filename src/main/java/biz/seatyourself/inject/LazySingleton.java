@@ -1,4 +1,4 @@
-package biz.seatyourself.util.inject;
+package biz.seatyourself.inject;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
